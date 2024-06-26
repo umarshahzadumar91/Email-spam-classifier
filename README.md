@@ -9,9 +9,9 @@ A dataset of text documents was divided into training and testing sets. The four
 The following table summarizes the precision scores of the four models:
 Model Precision Score
 
-. BNB 96%
-. MNB 100%
-. GNB 48%
+1. BNB 96%
+2. MNB 100%
+3. GNB 48%
 . SVM 87%
 # Email-spam-classifier
 In this project, we aim to build a spam email classifier using a macine learning approach. The classifier will be able to differentiate between spam and ham (non-spam) emails based on the content of the emails.
