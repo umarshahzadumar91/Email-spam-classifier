@@ -12,7 +12,7 @@ Model Precision Score
 1. BNB 96%
 2. MNB 100%
 3. GNB 48%
-. SVM 87%
+4. SVM 87%
 # Email-spam-classifier
 In this project, we aim to build a spam email classifier using a macine learning approach. The classifier will be able to differentiate between spam and ham (non-spam) emails based on the content of the emails.
 <br>
